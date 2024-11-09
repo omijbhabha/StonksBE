@@ -1,0 +1,8 @@
+Flask==2.3.0
+flask-cors==5.0.0
+numpy==1.25.1
+pandas==2.1.1
+matplotlib==3.8.0
+yfinance==0.2.14
+keras==2.15.0
+scikit-learn==1.2.2
